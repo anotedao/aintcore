@@ -1,0 +1,535 @@
+# Aint Chain TODO Lists
+
+## Aint
+
+#### TODO - MILESTONES
+
+- [ ] fix funds, mechanics and flows
+- [ ] 100% trustless & permissionless (community addresses, mobile mining, gateway, updates, domains)
+- [ ] crowdfunding campaign + marketing campaign
+- [ ] text & video tutorials for everything + translation
+- [ ] code refactoring
+- [ ] big utility app (exchange, lottery, user support, betting, websites, taxi, market, advertising network, cmc)
+
+#### TODO - v2.0 (MVP)
+
+- [ ] fix nodes
+- [ ] new token - mint tool
+- [ ] new token - update gateway
+- [ ] update website
+- [ ] make wallet work perfectly
+- [ ] aint staking
+- [ ] new node version (?)
+- [ ] more stats on website
+- [ ] other network mining (x, fb)
+- [ ] bring back social network contests
+- [ ] bot - feature to add in other channels
+ 
+#### TODO - v2.1 (MVP)
+
+- [ ] name change - fix staking
+- [ ] name change - fix $ amount
+- [ ] name change - fix bots and notifications
+- [ ] name change - dev tool
+- [ ] name change - ads tool
+- [ ] write down competitions procedure
+- [ ] NODE reward splitting
+- [ ] investor referral program
+- [ ] don't allow mining if wallet is not connected
+- [ ] fix weekly notification
+- [ ] AINT time lock
+- [ ] anote time lock
+- [ ] proof of loyalty (PoL) / sAINT
+- [ ] more bot helper commands
+- [ ] move gateway to wallet
+- [ ] fix ads tool (not publishing, bids list)
+- [ ] finish node layer
+- [ ] NODE gateway
+- [ ] issue with NODE minting tool *
+- [ ] change telegram account on the same address
+
+#### TODO - BACKLOG
+
+- [ ] mining with twitter and fb
+- [ ] aint price / minting bug
+- [ ] bnb gateway
+- [ ] install wallet option
+- [ ] more exposed referral link
+- [ ] ad bids detected as aint mint
+- [ ] integrate bots into anote-mobile
+- [ ] employees fund
+- [ ] white label service
+- [ ] new nodes smart contract
+- [ ] mine help command
+- [ ] gateway tutorial - bot
+- [ ] extended mining tutorial
+- [ ] cash out tutorial
+- [ ] buy anotes tutorial
+- [ ] new sign up flow
+- [ ] prealpha exchange limit
+- [ ] exchange notification
+- [ ] add twitter everywhere
+- [ ] change telegram account
+- [ ] AINT notifications in the groups
+- [ ] node update
+- [ ] tips and tricks as default ad
+- [ ] restore canceled nodes
+- [ ] user check - more data
+- [ ] delete command
+- [ ] better stats
+- [ ] add ref link to wallet
+- [ ] address command
+- [ ] pdf seed
+- [ ] remove anote.digital domain everywhere
+- [ ] fix telegram fund distribution
+- [ ] show how much is mined - mobile
+- [ ] finish domain rebranding (ads, node, miner)
+- [ ] anote native app
+- [ ] warn about invite
+- [ ] fund for influencers
+- [ ] decentralize 100%
+- [ ] wallet - lease and stake anote
+- [ ] explaining mining cycle
+- [ ] desktop mining
+- [ ] allow other channels into anote
+- [ ] automatic monitoring (space, balance, certs, domains)
+- [ ] trustless AINT gateway
+- [ ] other languages
+- [ ] aintcoin case study
+- [ ] aint oracle
+- [ ] more tutorials (mining, trading, cashing out, video)
+- [ ] publish on dexes (puzzle, pancake, uniswap, curve)
+- [ ] ATH notifications in the group
+- [ ] protect API
+- [ ] new anote-exchange
+- [ ] countries logging
+- [ ] more mining info
+- [ ] smart contracts - extra security audit
+- [ ] anote report - GUI
+- [ ] auto buy up
+- [ ] wallet - back button
+- [ ] send using alias
+- [ ] node - blockchain download
+- [ ] fix situation with kk
+- [ ] restore node from seed file
+- [ ] secure the nodes
+- [ ] node - docker image
+- [ ] desktop wallet
+- [ ] add load balancer for nodes
+- [ ] include other nodes in rest
+- [ ] wallet - multiple accounts
+- [ ] wallet - dark mode
+- [ ] wallet - send max on button
+- [ ] wallet - qr scanner
+
+#### DONE
+
+- [x] community address
+- [x] lease address
+- [x] node - send to community address
+- [x] wallet - rebranding
+- [x] explorer - rebranding
+- [x] explorer - fix mobile logo
+- [x] node - fix connect issue
+- [x] node - setup supervisor
+- [x] node - install
+- [x] node - fix issue with sending reward
+- [x] node - new payment model
+- [x] read percentage from the network
+- [x] add first root nodes
+- [x] fix node - send reward
+- [x] check node installation
+- [x] change number of confirmations needed
+- [x] aint gateway
+- [x] supervisor anote log
+- [x] update node and explorer
+- [x] update waves node
+- [x] rewards distribution smart contract
+- [x] monitor - master ping
+- [x] monitor - master lease
+- [x] monitor - node ping
+- [x] secure the node
+- [x] white paper
+- [x] install - don't start waves node
+- [x] gateway - AINT
+- [x] show AINT balance
+- [x] update dependencies
+- [x] fixed login
+- [x] new wallet domain
+- [x] init website
+- [x] basic website
+- [x] site - logo
+- [x] site - meta data
+- [x] create SVG icon
+- [x] anon redirect
+- [x] site - update facebook preview
+- [x] site - finish home
+- [x] submit for verification on wx
+- [x] generator script
+- [x] node - basic refactoring
+- [x] node - wait for payment
+- [x] node - generator script setup
+- [x] mater - ping payment
+- [x] master - check ip
+- [x] new installation script
+- [x] master - lease after script installation
+- [x] master - payouts
+- [x] update script and procedure
+- [x] include AINT in mining
+- [x] wallet - send AINT
+- [x] setup mobile mining server
+- [x] update nodes.aint.digital
+- [x] mm - captcha
+- [x] mm - code & mine
+- [x] show right mining screen
+- [x] mm - withdraw
+- [x] connect to telegram bot
+- [x] telegram notifications
+- [x] referral - invitation link
+- [x] referral - saving
+- [x] referral - landing page
+- [x] mobile - count active 2880
+- [x] referral - include in mining power
+- [x] check if referred users are active miners
+- [x] anote.today - cloudflare
+- [x] anote.today - github repo
+- [x] anote.today - github pages
+- [x] anote.today - dev channel
+- [x] anote.today - default ad
+- [x] anote.today - daily code
+- [x] anote.today - basic app
+- [x] site - contact
+- [x] website - webmaster tools & sitemap
+- [x] website - about page
+- [x] mobile mining - telegram protection
+- [x] check and tune up flow
+- [x] bot - basic tutorial
+- [x] fix anote stats
+- [x] check telegram existing
+- [x] join Telegram group
+- [x] set alias
+- [x] alias in referral
+- [x] site - tutorials
+- [x] website - mark active link
+- [x] sync blockchain to db
+- [x] anote-data - deploy
+- [x] anote-data - views
+- [x] data service
+- [x] telegram error logging
+- [x] check meta data
+- [x] anote-data - migrate services
+- [x] bug - mining section after telegram connect
+- [x] move all data to one address
+- [x] referral issue
+- [x] welcome message for the group
+- [x] anote.today - save ad
+- [x] anote.today - robot - get ad
+- [x] anote.today - delete bid after sending
+- [x] anote.today - settings
+- [x] anote.today - existing bids
+- [x] anote.today - place a bid
+- [x] anote.today - balance + send
+- [x] anote.today - leak
+- [x] anote.today - copy address
+- [x] anote.one - https redirect
+- [x] lock AINT for mining
+- [x] delete account through bot
+- [x] master - disable inactive leases
+- [x] node - install message
+- [x] anote.exchange - github repos
+- [x] anote.exchange - github pages
+- [x] anote.exchange - cloudflare
+- [x] price in bot stats
+- [x] exchange - step 2
+- [x] exchange - step 3
+- [x] exchange - copy 1
+- [x] exchange - copy 2
+- [x] exchange - validation 1
+- [x] exchange - validation 2
+- [x] deploy exchange.anote.digital
+- [x] UI - button toggle
+- [x] exchange - calculate (server)
+- [x] exchange - generate address
+- [x] exchange - monitoring
+- [x] exchange - finish UI
+- [x] master - bring down number of requests
+- [x] hide euro wallet
+- [x] gateway - put done in memory
+- [x] gateway issue
+- [x] anote.today - allow only anote
+- [x] mobile mining - ip protection
+- [x] mining - show more data
+- [x] blocked bot issue
+- [x] separate timer
+- [x] wallet - load mining data once
+- [x] fix number of referred users
+- [x] separate stats in data
+- [x] stats - more info
+- [x] referrals - confirmed
+- [x] set referral manually
+- [x] issues with referral system
+- [x] click here
+- [x] anote report
+- [x] anote report - deploy
+- [x] aint.digital cloudflare
+- [x] aint.digital github
+- [x] replace AINT
+- [x] aint.digital animation
+- [x] get the code button
+- [x] undefined referral issue
+- [x] local storage
+- [x] 2880 rule fix
+- [x] holders in stats
+- [x] mint - waves address
+- [x] secret tab
+- [x] minting - copy message
+- [x] minting - validate
+- [x] minting - waves balance
+- [x] minting - send minted
+- [x] minting - more info to pause
+- [x] mint - load aint data
+- [x] mint - mint more than tier
+- [x] mint - calculate
+- [x] mint - max button
+- [x] mint - better loader
+- [x] check calculator
+- [x] mint - copy message
+- [x] mint - with kk
+- [x] monitor AINT sales
+- [x] miner - new data format
+- [x] miner - new smart contract
+- [x] miner - move staked aints
+- [x] node smart contract
+- [x] miner - address in wallet
+- [x] miner - adjust wallet
+- [x] miner - deploy
+- [x] check AINT distribution
+- [x] optimize server load
+- [x] load tweaking
+- [x] new mining UI
+- [x] fix new badge
+- [x] more security measures - bot
+- [x] issue with aint staked to node
+- [x] miner - save address
+- [x] miner - mine action
+- [x] miner - notification
+- [x] miner - get code direct
+- [x] miner - multitasking issue
+- [x] remove duplicated nodes
+- [x] node staking bug
+- [x] miner - restart when already mining
+- [x] DNS for new master node
+- [x] new explorer
+- [x] new wallet
+- [x] Smrdelj node
+- [x] Bug node
+- [x] create AINT on new fork
+- [x] distribute AINT on new fork
+- [x] configure staked AINT
+- [x] new aint-node
+- [x] new node setup binary
+- [x] node update script
+- [x] anote-report - fix missing addresses
+- [x] create mobileold and move
+- [x] new anote-robot
+- [x] new mobile mining
+- [x] remove extra from wallet
+- [x] aint miner - ip protections
+- [x] remove extra leases
+- [x] unstake aint from defunct nodes
+- [x] miner api - show health
+- [x] miner UI - show health
+- [x] mine - handle errors
+- [x] install smart contracts
+- [x] miner - import existing miners and referred miners
+- [x] miner version
+- [x] miner download link
+- [x] refresh health
+- [x] check that address is valid
+- [x] anote alpha balance
+- [x] cryptocurrency tutorial
+- [x] bug - send mined
+- [x] fix health bar
+- [x] add miner link to the web
+- [x] update mining tutorial - web
+- [x] update mining tutorial - bot
+- [x] disable back on registration
+- [x] show the right screen after saving address
+- [x] miner - check flows (existing and new miner)
+- [x] move anote.today to beta
+- [x] new anote in waves blockchain
+- [x] new aint-gateway - deploy
+- [x] enable minting AINT
+- [x] miner - fix ip count
+- [x] report - show earnings
+- [x] app update alert
+- [x] wheel position
+- [x] mine invite page
+- [x] mine invite page - mechanics
+- [x] mine invite page - copy
+- [x] mine invite page - server side save
+- [x] invite - alias referral
+- [x] aint miner - import seed
+- [x] aint digital - check if seed valid
+- [x] miner - show cycle
+- [x] miner - referral link
+- [x] ref - alias
+- [x] miner data API
+- [x] wallet - register from invite page
+- [x] fix robot help
+- [x] miner - show referred
+- [x] fix cycle bar when restarting mining
+- [x] fix referral issue when using address
+- [x] connect telegram
+- [x] bot delete command
+- [x] fix referral showing in wallet
+- [x] stake AINT for health
+- [x] ref - move link
+- [x] ref - invite inactive
+- [x] UI bug for new users
+- [x] send 0.001 to new miners
+- [x] telegram cycle notification
+- [x] explorer - fix assets
+- [x] fix delete account
+- [x] miner - work without native app
+- [x] referral system - influence withdraw
+- [x] better battery saver management
+- [x] miner js issue - update chrome and system webview
+- [x] end notification sync miner and telegram
+- [x] battery optimization tutorial
+- [x] battery optimization bot command
+- [x] telegram health notification
+- [x] confirmed users in miner
+- [x] miner health notification
+- [x] show balance in miner
+- [x] show address in miner
+- [x] different battery notification check
+- [x] first cycle telegram notification
+- [x] aint tutorial
+- [x] anote.today - fix no bids
+- [x] anote.today - min 1 anote
+- [x] anote.today - bids list
+- [x] advertise here link
+- [x] node setup tutorial
+- [x] advertising tutorial
+- [x] fix issues with miner and notifications
+- [x] polish everything
+- [x] fix miner domain
+- [x] fix load on master server
+- [x] fix battery notification
+- [x] disable battery notification
+- [x] notifications fix
+- [x] make miner use mobile.anote.digital
+- [x] make battery notification less annoying
+- [x] wavespaper
+- [x] roadmap
+- [x] tokenomics
+- [x] buy new domain
+- [x] install explorer on new domain
+- [x] new robot help
+- [x] mystats command
+- [x] separate telegram fund
+- [x] show how much is mined
+- [x] mine invitation page
+- [x] update referral system
+- [x] bug - double payout
+- [x] new telegram connect
+- [x] withdraw command
+- [x] alpha exchange block limit
+- [x] weekly notification
+- [x] alpha zero warning
+- [x] automate AINT gateway
+- [x] show price from puzzle in stats
+- [x] remove alpha balance when exchanged
+- [x] fix newline issue on wallet
+- [x] check bug - mining height 0
+- [x] domain re-branding - wallet
+- [x] update anote.one link everywhere
+- [x] split bot into two
+- [x] dollar amount in wallet
+- [x] gateway notification - show decimals
+- [x] redirect anote.one
+- [x] bot forward to check user
+- [x] update miner ref link
+- [x] eth / bsc version
+- [x] bsc gateway - wallet side
+- [x] bsc gateway - deposit ui
+- [x] bsc gateway - add withdraw
+- [x] bsc gateway - forward deposit
+- [x] kk fund
+- [x] delete welcome message after 30 seconds
+- [x] ref bug - self
+- [x] ref bug - change
+- [x] wallet gw limits and messages
+- [x] update mobile miner
+- [x] gw - automatic switch to BSC chain
+- [x] gateway tutorial
+- [x] seed command
+- [x] bsc address command
+- [x] cache bot stats
+- [x] basic anote staking
+- [x] anote staking
+- [x] staking tutorial
+- [x] memory leak issue
+- [x] move to postgres
+- [x] remove 10x for referred users
+- [x] aint successfully staked typo
+- [x] minting AINT with anotes
+- [x] new aint minting contract
+- [x] create your own token
+- [x] check gateway - bsc -> anote
+- [x] update aint minting tutorial
+- [x] 0.1 bug when sending from BSC to Anote
+- [x] disable gateway
+- [x] new BSC contract - add fee when more than 1 withdrawal
+- [x] wrong price in the wallet
+- [x] deploy new gateway
+- [x] list your own token
+- [x] tokens - show only when exists
+- [x] tokens - send
+- [x] tokens - finish dev tool
+- [x] tokens - show listing price
+- [x] tokens - tutorial
+- [x] price and stats page
+- [x] unified referral link
+- [x] publish ads tool again
+- [x] node token UI
+- [x] node token contract
+- [x] node token service
+- [x] node token address
+- [x] incentivize channels
+- [x] issue with mobile amount 1 anote
+- [x] changed suspicious activity reporting
+- [x] NODE price increase
+- [x] fixed bug with suspicious activity reporting
+- [x] NODE display more information
+- [x] NODE token tutorial
+- [x] NODE minting notifications
+- [x] NODE notification - tier
+- [x] remove ips from nodes db
+- [x] fix wallet after removing ips
+- [x] stop spamming group too much with forwards
+- [x] automatic leases to new nodes
+- [x] node leasing tutorial
+- [x] new price API
+- [x] more bot helper commands
+- [x] name change - disable aint minting
+- [x] name change - disable gateway
+- [x] name change - explorer
+- [x] name change - wallet
+- [x] name change - create anote token
+- [x] name change - send anote token
+- [x] remove anote from the market
+- [x] bring aint to the market
+- [x] node alarm
+- [x] name change - return all aint automatically
+- [x] name change - minting anote
+- [x] name change - update gateway
+- [x] fix dollar amount
+- [x] new anote token
+- [x] fix anote master
+- [x] fix gateway and node store
+
+#### TODO - v2.0 (MVP)
+
+- [x] update logo on dev tool
