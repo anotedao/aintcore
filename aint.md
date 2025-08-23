@@ -532,4 +532,17 @@
 
 #### TODO - v2.0 (MVP)
 
+- [x] dockerize infrastructure
+- [x] test infrastructure move
 - [x] update logo on dev tool
+- [x] website logo
+- [x] wallet logo
+- [x] update website menu
+- [x] link aint -> anote
+- [x] update about page
+- [x] explorer loding gif
+- [x] explorer logo
+- [x] explorer red
+- [x] website footer
+- [x] website sitemap
+- [x] group link in wallet
