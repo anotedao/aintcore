@@ -2,6 +2,15 @@
 
 ## Aint
 
+#### TODO
+
+- [ ] move node stakes to general
+- [ ] increase node reward
+- [ ] update branding on bots
+- [ ] update website
+- [ ] split node reward 
+- [ ] cancel node lease
+
 #### TODO - MILESTONES
 
 - [ ] fix funds, mechanics and flows
@@ -530,7 +539,7 @@
 - [x] fix anote master
 - [x] fix gateway and node store
 
-#### TODO - v2.0 (MVP)
+#### DONE - v2.0 (MVP)
 
 - [x] dockerize infrastructure
 - [x] test infrastructure move
@@ -546,3 +555,8 @@
 - [x] website footer
 - [x] website sitemap
 - [x] group link in wallet
+- [x] return and fix node mint tool
+- [x] new virtualbox node
+- [x] new docker node
+- [x] deploy free nodes
+- [x] clean nodes contract
