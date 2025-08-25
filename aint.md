@@ -5,7 +5,6 @@
 #### TODO
 
 - [ ] move node stakes to general
-- [ ] increase node reward
 - [ ] update branding on bots
 - [ ] update website
 - [ ] split node reward 
@@ -33,3 +32,4 @@
 - [x] deploy free nodes
 - [x] clean nodes contract
 - [x] fix node
+- [x] increase node reward
