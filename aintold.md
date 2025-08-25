@@ -2,14 +2,6 @@
 
 ## Aint
 
-#### TODO
-
-- [ ] move node stakes to general
-- [ ] update branding on bots
-- [ ] update website
-- [ ] split node reward 
-- [ ] cancel node lease
-
 #### TODO - MILESTONES
 
 - [ ] fix funds, mechanics and flows
