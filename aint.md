@@ -33,3 +33,5 @@
 - [x] clean nodes contract
 - [x] fix node
 - [x] increase node reward
+- [x] publish promotion
+- [x] forward promotion
