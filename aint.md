@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] move node stakes to general
 - [ ] update branding on bots
 - [ ] update website
 - [ ] split node reward
@@ -35,3 +34,4 @@
 - [x] increase node reward
 - [x] publish promotion
 - [x] forward promotion
+- [x] move node stakes to general
