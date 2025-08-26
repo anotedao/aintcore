@@ -7,7 +7,7 @@
 - [ ] move node stakes to general
 - [ ] update branding on bots
 - [ ] update website
-- [ ] split node reward 
+- [ ] split node reward
 - [ ] cancel node lease
 
 #### DONE - v2.0 (MVP)
