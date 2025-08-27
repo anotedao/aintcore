@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] node docker image persistent
 - [ ] update branding on bots
 - [ ] update website
 - [ ] split node reward
