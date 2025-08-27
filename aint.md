@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] node docker image persistent
 - [ ] update branding on bots
 - [ ] update website
 - [ ] split node reward
@@ -36,3 +35,4 @@
 - [x] publish promotion
 - [x] forward promotion
 - [x] move node stakes to general
+- [x] node docker image persistent
