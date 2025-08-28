@@ -36,3 +36,4 @@
 - [x] forward promotion
 - [x] move node stakes to general
 - [x] node docker image persistent
+- [x] fix node store
