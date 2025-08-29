@@ -9,6 +9,7 @@
 - [ ] update website
 - [ ] split node reward
 - [ ] cancel node lease
+- [ ] bring back gateway
 
 #### DONE - v2.0 (MVP)
 
