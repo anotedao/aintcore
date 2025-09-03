@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] temporary node mint fix
 - [ ] node mint fix
 - [ ] increase NODE mint by 0.001
 - [ ] update branding on bots
@@ -42,3 +41,4 @@
 - [x] node docker image persistent
 - [x] fix node store
 - [x] fix NODE notifications
+- [x] temporary node mint fix
