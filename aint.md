@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] fix explorer logo
 - [ ] atc basic miner
 - [ ] node mint fix
 - [ ] increase NODE mint by 0.001
