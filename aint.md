@@ -42,3 +42,4 @@
 - [x] fix node store
 - [x] fix NODE notifications
 - [x] temporary node mint fix
+- [x] aintcoin basics
