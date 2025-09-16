@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] fix explorer logo
 - [ ] atc basic miner
 - [ ] node mint fix
 - [ ] increase NODE mint by 0.001
@@ -45,3 +44,4 @@
 - [x] fix NODE notifications
 - [x] temporary node mint fix
 - [x] aintcoin basics
+- [x] fix explorer logo
