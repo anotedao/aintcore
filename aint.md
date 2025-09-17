@@ -4,7 +4,7 @@
 
 #### TODO
 
-- [ ] a
+- [ ] atm miner docker
 - [ ] node mint fix
 - [ ] increase NODE mint by 0.001
 - [ ] update branding on bots
