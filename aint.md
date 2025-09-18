@@ -4,13 +4,13 @@
 
 #### TODO
 
+- [ ] gateway
 - [ ] node mint fix
 - [ ] increase NODE mint by 0.001
 - [ ] update branding on bots
 - [ ] update website
 - [ ] split node reward
 - [ ] cancel node lease
-- [ ] bring back gateway
 
 #### DONE - v2.0 (MVP)
 
