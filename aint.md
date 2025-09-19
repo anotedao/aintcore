@@ -6,7 +6,6 @@
 
 - [ ] gateway
 - [ ] website - aintcoin
-- [ ] node mint fix
 - [ ] increase NODE mint by 0.001
 - [ ] update branding on bots
 - [ ] update website
@@ -47,3 +46,4 @@
 - [x] fix explorer logo
 - [x] atc basic miner
 - [x] atm miner docker
+- [x] node mint fix
