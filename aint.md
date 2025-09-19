@@ -5,6 +5,7 @@
 #### TODO
 
 - [ ] gateway
+- [ ] website - aintcoin
 - [ ] node mint fix
 - [ ] increase NODE mint by 0.001
 - [ ] update branding on bots
