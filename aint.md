@@ -9,7 +9,6 @@
 - [ ] increase NODE mint by 0.001
 - [ ] update branding on bots
 - [ ] update website
-- [ ] split node reward
 - [ ] cancel node lease
 
 #### DONE - v2.0 (MVP)
@@ -47,3 +46,4 @@
 - [x] atc basic miner
 - [x] atm miner docker
 - [x] node mint fix
+- [x] split node reward
