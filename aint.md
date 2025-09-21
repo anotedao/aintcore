@@ -47,3 +47,4 @@
 - [x] atm miner docker
 - [x] node mint fix
 - [x] split node reward
+- [x] anotedao.com domain
