@@ -6,6 +6,7 @@
 
 - [ ] promotion
 - [ ] ATC - spend AINT
+- [ ] ATC - use Anote
 - [ ] funnels
 - [ ] node mint to 0.035 BNB
 - [ ] gateway
