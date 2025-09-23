@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] node mint to 0.035 BNB
 - [ ] gateway
 - [ ] website - aintcoin
 - [ ] increase NODE mint by 0.001
