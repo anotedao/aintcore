@@ -5,6 +5,7 @@
 #### TODO
 
 - [ ] promotion
+- [ ] ATC - spend AINT
 - [ ] funnels
 - [ ] node mint to 0.035 BNB
 - [ ] gateway
