@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] funnels
 - [ ] node mint to 0.035 BNB
 - [ ] gateway
 - [ ] website - aintcoin
