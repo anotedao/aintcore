@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] verify ATC
 - [ ] promotion
 - [ ] ATC - spend AINT
 - [ ] ATC - use Anote
