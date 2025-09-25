@@ -55,3 +55,4 @@
 - [x] split node reward
 - [x] anotedao.com domain
 - [x] create BSC ATC token
+- [x] ATC Pancake
