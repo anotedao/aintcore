@@ -15,6 +15,7 @@
 - [ ] update branding on bots
 - [ ] update website
 - [ ] cancel node lease
+- [ ] update wallet
 
 #### DONE - v2.0 (MVP)
 
