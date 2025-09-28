@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] promotion
 - [ ] ATC - spend AINT
 - [ ] ATC - use Anote
 - [ ] funnels
@@ -57,3 +56,4 @@
 - [x] create BSC ATC token
 - [x] ATC Pancake
 - [x] verify ATC
+- [x] promotion
