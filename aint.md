@@ -4,13 +4,14 @@
 
 #### TODO
 
+- [ ] node-master persistent chain
+- [ ] node mint to 0.035 BNB
+- [ ] increase NODE mint by 0.001
+- [ ] website - aintcoin
 - [ ] ATC - spend AINT
 - [ ] ATC - use Anote
 - [ ] funnels
-- [ ] node mint to 0.035 BNB
 - [ ] gateway
-- [ ] website - aintcoin
-- [ ] increase NODE mint by 0.001
 - [ ] update branding on bots
 - [ ] update website
 - [ ] update wallet
