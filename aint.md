@@ -13,6 +13,7 @@
 - [ ] increase NODE mint by 0.001
 - [ ] update branding on bots
 - [ ] update website
+- [ ] update wallet
 - [ ] cancel node lease
 - [ ] update wallet
 
