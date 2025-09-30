@@ -16,7 +16,6 @@
 - [ ] update website
 - [ ] update wallet
 - [ ] cancel node lease
-- [ ] update wallet
 
 #### DONE - v2.0 (MVP)
 
