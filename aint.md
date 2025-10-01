@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] node mint logo
 - [ ] node-master persistent chain
 - [ ] node mint to 0.035 BNB
 - [ ] increase NODE mint by 0.001
