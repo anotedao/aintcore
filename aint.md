@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] node mint logo
 - [ ] node-master persistent chain
 - [ ] website - aintcoin
 - [ ] ATC - spend AINT
@@ -60,3 +59,4 @@
 - [x] node store testnet
 - [x] node mint to 0.035 BNB
 - [x] increase NODE mint by 0.001
+- [x] node mint logo
