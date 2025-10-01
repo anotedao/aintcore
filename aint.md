@@ -58,3 +58,4 @@
 - [x] ATC Pancake
 - [x] verify ATC
 - [x] promotion
+- [x] node store testnet
