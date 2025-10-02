@@ -60,3 +60,4 @@
 - [x] node mint to 0.035 BNB
 - [x] increase NODE mint by 0.001
 - [x] node mint logo
+- [x] satoshi
