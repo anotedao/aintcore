@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] vanity tool
 - [ ] node-master persistent chain
 - [ ] website - aintcoin
 - [ ] ATC - spend AINT
