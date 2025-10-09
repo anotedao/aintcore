@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] us move
 - [ ] vanity tool
 - [ ] node-master persistent chain
 - [ ] website - aintcoin
