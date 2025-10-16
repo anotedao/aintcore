@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] fix node
 - [ ] us move
 - [ ] vanity tool
 - [ ] node-master persistent chain
