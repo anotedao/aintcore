@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] fund sat mining
 - [ ] us move
 - [ ] vanity tool
 - [ ] node-master persistent chain
