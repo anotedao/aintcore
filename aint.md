@@ -4,7 +4,6 @@
 
 #### TODO
 
-- [ ] fix node
 - [ ] us move
 - [ ] vanity tool
 - [ ] node-master persistent chain
@@ -64,3 +63,4 @@
 - [x] increase NODE mint by 0.001
 - [x] node mint logo
 - [x] satoshi
+- [x] fix node
