@@ -5,7 +5,6 @@
 #### TODO
 
 - [ ] fund sat mining
-- [ ] us move
 - [ ] vanity tool
 - [ ] node-master persistent chain
 - [ ] website - aintcoin
@@ -65,3 +64,4 @@
 - [x] node mint logo
 - [x] satoshi
 - [x] fix node
+- [x] us move
