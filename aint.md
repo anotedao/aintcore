@@ -65,3 +65,4 @@
 - [x] fix node
 - [x] us move
 - [x] fund sat mining
+- [x] fix mobile mining
